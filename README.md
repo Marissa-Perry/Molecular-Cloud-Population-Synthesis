@@ -9,8 +9,13 @@
 </p>
 
 * Research Experience for Undergraduates (REU) summer project with Dr. Jens Kauffmann at MIT Haystack Observatory
-* Theoretically modeled the decomposition of an extragalactic molecular line luminosity signal into its cloud population molecular line luminosity components
-* This was first done with numerical optimization using SciPy Optimize Minimize (refer to Appendix A), then with probabilistic programming using PyMC3 (refer to Appendix B)
+* Wrote Python programs to theoretically observe unresolved molecular clouds in extragalactic systems
+* This was first done with numerical optimization using SciPy Optimize Minimize, then with probabilistic programming using PyMC3
+
+**Documents**
+* There are two walk-through Jupyter Notebooks, Appendix A and Appendix B, which cover the numerical opimization and probabilistic programming methods, respectively
+* There is a Report .pdf file which contains a considerable amount of literature review
+* This work has also been published in the **[Research Notes of the AAS](https://iopscience.iop.org/journal/2515-5172)**, which can be referred to when looking for a concise presentation of the results
 
 ## Presented Work at 243rd Meeting of the American Astronomical Society, (January, 2024)
 
