@@ -8,7 +8,7 @@
 (https://www.haystack.mit.edu/)
 </p>
 
-* Research Experience for Undergraduates (REU) summer project with Dr. Jens Kauffmann at MIT Haystack Observatory
+* NSF Research Experience for Undergraduates (REU) summer project with Dr. Jens Kauffmann at MIT Haystack Observatory
 * Wrote Python programs to theoretically observe unresolved molecular clouds in extragalactic systems
 * This was first done with numerical optimization using SciPy Optimize Minimize, then with probabilistic programming using PyMC3
 
