@@ -15,7 +15,7 @@
 **Documents**
 * There are two walk-through Jupyter Notebooks, Appendix A and Appendix B, which cover the numerical opimization and probabilistic programming methods, respectively
 * There is a Report .pdf file which contains a considerable amount of literature review
-* This work has also been published in the **[Research Notes of the AAS](https://iopscience.iop.org/journal/2515-5172)**, which can be referred to when looking for a concise presentation of the results
+* This work has also been published in the **[Research Notes of the AAS](https://doi.org/10.3847/2515-5172/ad9b2d)**, which can be referred to when looking for a concise presentation of the results
 
 ## Presented Work at 243rd Meeting of the American Astronomical Society, (January, 2024)
 
